@@ -1,6 +1,8 @@
 # crypto_ticker
 
-A new Flutter project.
+# Version 1.0 Publishing Date : 23.JUNE.2021
+
+Download the release here - https://drive.google.com/file/d/1MkrPxC_9VrGQH1sfVEwR8DRDM_f3M8Ei/view?usp=sharing
 
 ## Getting Started
 
