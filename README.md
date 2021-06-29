@@ -1,18 +1,18 @@
-# crypto_ticker
+# Crypto Ticker
 
 # Version 1.0 Publishing Date : 23.JUNE.2021
 
-Download the release here - https://drive.google.com/file/d/1MkrPxC_9VrGQH1sfVEwR8DRDM_f3M8Ei/view?usp=sharing
+To download this android app and run it on you physical device, download the apk and install it on you device [Download Here](https://drive.google.com/file/d/1MkrPxC_9VrGQH1sfVEwR8DRDM_f3M8Ei/view?usp=sharing).
 
-## Getting Started
+This project has been made using Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web.
 
-This project is a starting point for a Flutter application.
+In this project I have created a platform which can fetch data for the prices of some famous Crypto(BTC, ETH, LTC), In coming updates this will be upgraded and many more features will be added in the platfrom. For fetching data from internet I have used CoinApi.
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to do anything this repository.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Learn 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [DART PROGRAMMING LANGUAGE](https://dart.dev/)
+- [FLUTTER](https://flutter.dev/)
+- [FIREBASE](https://firebase.google.com/)
+- [COIN API](https://www.coinapi.io/)
